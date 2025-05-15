@@ -1,3 +1,9 @@
+---
+title: "Politique de Confidentialité Cleanese"
+layout: default
+---
+
+
 Conditions Générales d'Utilisation de Cleanese
 1. Objet
 Les présentes Conditions Générales d'Utilisation (CGU) régissent l'accès et l'utilisation de l'application Cleanese,
